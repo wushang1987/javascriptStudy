@@ -1,0 +1,889 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ui-v",
+				"ui-view"
+			],
+			[
+				"ui",
+				"ui-view	(index.html)"
+			],
+			[
+				"gp",
+				"glyphicon-user	(bootstrap.css)"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"Ab",
+				"AboutCtrl	(app.js)"
+			],
+			[
+				"box",
+				"box-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "object1.js",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "@CHARSET \"UTF-8\";\n\n\n	ul,li{margin:0;padding:0; list-style:none;}\n .infomationBoard{width:90%;/* padding:20px; */padding-bottom:0px;}\n .infomationBoard .top{\n  background: url(../images/hu.png);\n  width: 100%;\n  height: 100%;\n  background-repeat: no-repeat;\n  background-size: 80%;\n  position: absolute;\n  top: -122px;\n  background-position: 10% 20%;\n  }\n.infomationBoard .main{margin-top:130px;}\n .infomationBoard .main .mainTop{width:100%;background:url(../images/top3.png);background-repeat:no-repeat; background-position:50% -60px;padding-left:1%;padding-right:5%;}\n .infomationBoard .main .mainTop .row-fluid .span3{position:relative;padding-top:20px;width: 20%;margin-left: 0px;height: 250px;}\n  \n .infomationBoard .main .mainTop .back{background:url(../images/all.png);width:100%;/* height: 346px; */background-repeat:no-repeat;}\n  .infomationBoard .main .mainTop .one{background:url(../images/fuwu.png);width:100%;height: 360px;background-repeat:no-repeat;background-size: 100%;}\n    .infomationBoard .main .mainTop .two{background: url(../images/chengben.png);width:100%;height: 360px;background-repeat:no-repeat;background-size: 100%;}\n	  .infomationBoard .main .mainTop .three{background: url(../images/nenghao.png);width:100%;height: 360px;background-repeat:no-repeat;background-size: 100%;}\n	    .infomationBoard .main .mainTop .four{background:url(../images/anquan.png);width:100%;height: 360px;background-repeat:no-repeat;background-size: 100%;}\n	    .infomationBoard .main .mainTop .five{background:url(../images/yunying.png);width:100%;height: 360px;background-repeat:no-repeat;background-size: 100%;}\n  .infomationBoard .main .mainTop ul{\n  padding-top:104px;\n  width: 281px;\n  /* height: 360px; */\n  overflow: hidden;\n}\n .infomationBoard .main .mainTop ul li{color:#6a6a6a;border-bottom:solid 1px #abc3b4;margin-left:8px;padding-top:8px;padding-bottom:26px;margin-right: -15px;font-size: 18px;}\n .infomationBoard .main .mainTop ul li:last-child{border:none;}\n .infomationBoard .main .mainTop ul li .pull-left{padding-left:3px;}\n  .infomationBoard .main .mainTop ul li .pull-right{padding-right:0px;}\n  .infomationBoard .main .main-bottom .main-bottom-top{margin-left:0%;margin-right:0%;}\n  .infomationBoard .main .main-bottom {margin-top: 136px;margin-left: 2%;}\n  .infomationBoard .main .main-bottom .main-bottom-top a{position:relative;}\n\n    .infomationBoard .main .main-bottom .main-bottom-top .imageJian{padding:0px 4.5%;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom{\n  /* margin-left:2%; */\n  border-style: solid;\n  border-width: 1px;\n  border-color: rgb( 153, 153, 153 );\n  border-radius: 10px;\n  background-image: -moz-linear-gradient( 90deg, rgb(223,223,223) 0%, rgb(248,248,248) 6%, rgb(225,225,225) 51%, rgb(245,245,245) 51%, rgb(233,233,233) 88%, rgb(255,255,255) 99%);\n  background-image: -webkit-linear-gradient( 90deg, rgb(223,223,223) 0%, rgb(248,248,248) 6%, rgb(225,225,225) 51%, rgb(245,245,245) 51%, rgb(233,233,233) 88%, rgb(255,255,255) 99%);\n  background-image: -ms-linear-gradient( 90deg, rgb(223,223,223) 0%, rgb(248,248,248) 6%, rgb(225,225,225) 51%, rgb(245,245,245) 51%, rgb(233,233,233) 88%, rgb(255,255,255) 99%);\n  margin-top: -36px;\n  width: 98%;\n  height: 384px;\n  z-index:-1;\n}\n\n.infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation{width: 19%;/* margin-left:1.6%; *//* margin-right:6%; */margin-top: -106px;float:left;margin-right: 1%;border-bottom: solid 1px #ccc;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .first{/* width:11%; *//* margin-left:3%; *//* margin-right:6.7%; *//* margin-top:15px; */float:left;/* border-bottom: solid 1px #999; */}\n.infomationBoard .main .main-bottom .main-bottom-bottom .last{/* width:11%; *//* margin-left:3%; *//* margin-right:3%; *//* margin-top:15px; */float:left;}\n.infomationBoard .main .main-bottom .main-bottom-bottom ul li{color:#626262;font-size:20px;line-height: 31px; clear:both;border-top: solid 1px #ccc;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian{top: 716px;background:url(../images/fengexian.png);}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian1{position:absolute;width:5px;height:180px;left: 29.2%; background-repeat:no-repeat;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian2{position:absolute;width:5px;height:180px;left: 44.3%; background-repeat:no-repeat;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian3{position:absolute;width:5px;height:180px;left: 59.4%; background-repeat:no-repeat;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian4{position:absolute;width:5px;height:180px;left: 74.3%;  background-repeat:no-repeat;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian img{\n    margin-top: -138px;\n    margin-left: -21px;\n}\n.infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation .pull-left{\n    position: relative;\n    left: 12px;\n}\n\n\n.infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation .pull-right{\n    position: relative;\n    right: 32px;\n}\n\n.infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation img{\n	\nposition: relative;\n	\nleft: 29%;\n	\nborder: none;\n}\n\n@media screen and (max-width: 1500px){\n	.infomationBoard .main{margin-top:100px;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian{top:540px;}\n	.infomationBoard .main .main-bottom .main-bottom-top{margin-left:8%;margin-right:0%}\n	   .infomationBoard .main .main-bottom .main-bottom-top .imageJian{padding:0px 2.3%;}\n	   .infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation{width:15%;margin-left:1.9%;margin-right:3%;}\n	   .infomationBoard .main .main-bottom .main-bottom-bottom .first{width:11%;margin-left:4%;margin-right:5.5%; margin-top:40px;float:left;}\n\n.infomationBoard .main .main-bottom .main-bottom-bottom .last{margin-left:1.8%;margin-right:3%; }\n	.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian1{left:31.5%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian2{left:47.5%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian3{left:62.5%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian4{left:78.5%;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom{margin-left:4%;margin-right:0px; width: 100%;}\n	.infomationBoard .main .main-bottom{margin-top:0px;}\n\n	}\n	@media screen and (max-width: 1366px){\n	.infomationBoard .top{top:-120px;}\n	.infomationBoard .main{margin-top: 71px;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian{top:456px;}\n\n	   .infomationBoard .main .main-bottom .main-bottom-top .imageJian{padding:0px 1.6%;}\n	\n	.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian1{left:32.5%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian2{left:48%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian3{left:63.5%;}\n.infomationBoard .main .main-bottom .main-bottom-bottom .fenGeXian4{left:79%;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom{height:160px;}\n	.infomationBoard .main .main-bottom{margin-top:-40px;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom ul li{line-height:24px;}\n	.infomationBoard .main .main-bottom .main-bottom-bottom .bottomInfomation{margin-top:34px;  }\n\n}\n	\n@media screen and (min-width: 1700px){\n	.infomationBoard .main .mainTop .one{/* background-size: 94%; */}\n	.infomationBoard .main .mainTop .two{/* background-size: 300px; */}\n	.infomationBoard .main .mainTop .three{/* background-size: 300px; */}\n	.infomationBoard .main .mainTop .four{/* background-size: 300px; */}\n}\n\n\n",
+			"settings":
+			{
+				"buffer_size": 7623,
+				"line_ending": "Windows",
+				"name": "@CHARSET \"UTF-8\";"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitp",
+				"Git: Push Current Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"mpb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git p",
+				"Git: Push Current Branch"
+			],
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"gitpus",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"gitpu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gp",
+				"Git: Push Current Branch"
+			],
+			[
+				"gq",
+				"Git: Quick Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git qc",
+				"Git: Quick Commit"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gitpushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gitall",
+				"Git: Add All"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"kill",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gu",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"test",
+				"Snippet: QUnit test"
+			],
+			[
+				"filt",
+				"Snippet: .filter()"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"gpsc",
+				"Git: Push Current Branch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitqu",
+				"Git: Quick Commit"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git commit ",
+				"Git: Quick Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/WWD/git/javascriptStudy"
+	],
+	"file_history":
+	[
+		"/C/Users/WWD/Desktop/es6Test1.js",
+		"/C/Users/WWD/git/yeomanAngular/bower.json",
+		"/C/Users/WWD/git/UIRouter/gulpfile.js",
+		"/C/Users/WWD/git/UIRouter/README.md",
+		"/C/Users/WWD/git/UIRouter/app/index.html",
+		"/C/Users/WWD/git/UIRouter/bower_components/bootstrap/README.md",
+		"/C/Users/WWD/git/UIRouter/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/C/Users/WWD/git/sitNav/README.md",
+		"/C/Users/WWD/git/sitNav/client/app/main/main.controller.spec.js",
+		"/C/Users/WWD/git/sitNav/client/app/main/main.controller.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/admin.router.js",
+		"/C/Users/WWD/git/sitNav/client/index.html",
+		"/C/Users/WWD/git/sitNav/client/app/main/main.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/websiteMsg/websiteMsg.html",
+		"/C/Users/WWD/git/sitNav/client/app/admin/websiteMsg/websiteMsg.controller.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/websiteMsg/websiteMsg.js",
+		"/C/Users/WWD/git/sitNav/client/app/main/main.less",
+		"/C/Users/WWD/git/sitNav/client/app/main/main.html",
+		"/C/Users/WWD/git/sitNav/client/app/admin/websiteMsg/websiteMsg.spec.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/admin.html",
+		"/C/Users/WWD/git/sitNav/client/app/admin/userMsg/userMsg.html",
+		"/C/Users/WWD/git/sitNav/client/components/navbar/navbar.html",
+		"/C/Users/WWD/git/sitNav/client/bower_components/angular-ui-router/README.md",
+		"/C/Users/WWD/git/sitNav/gulpfile.babel.js",
+		"/C/Users/WWD/git/sitNav/client/bower_components/angular-resource/angular-resource.js",
+		"/C/Users/WWD/git/sitNav/client/components/navbar/navbar.directive.js",
+		"/C/Users/WWD/git/sitNav/client/app/app.constant.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/admin.controller.js",
+		"/C/Users/WWD/git/sitNav/client/app/account/account.js",
+		"/C/Users/WWD/git/sitNav/client/app/app.js",
+		"/C/Users/WWD/git/sitNav/client/app/admin/admin.module.js",
+		"/C/Users/WWD/git/sitNav/client/components/footer/footer.html",
+		"/C/Users/WWD/git/sitNav/client/app/account/settings/settings.html",
+		"/C/Users/WWD/git/sitNav/client/app/account/signup/signup.html",
+		"/C/Users/WWD/git/sitNav/client/app/account/login/login.html",
+		"/C/Users/WWD/git/FrontEnd_Index/angularjs.md",
+		"/C/Users/WWD/git/FrontEnd_Index/website.md",
+		"/C/Users/WWD/git/FrontEnd_Index/project.md",
+		"/C/Users/WWD/git/FrontEnd_Index/README.md",
+		"/C/Users/WWD/git/loadOnDemand/loadOnDemand.js",
+		"/C/Users/WWD/git/loadOnDemand/example/server/package.json",
+		"/C/Users/WWD/git/loadOnDemand/example/server/views/index.ejs",
+		"/C/Users/WWD/git/loadOnDemand/example/client/js/app.js",
+		"/C/Users/WWD/git/ocLazyLoad/examples/requireJSExample/index.html",
+		"/C/Users/WWD/git/ocLazyLoad/examples/requireJSExample/partials/grid.html",
+		"/C/Users/WWD/git/ocLazyLoad/dist/ocLazyLoad.js",
+		"/C/Users/WWD/git/ocLazyLoad/examples/requireJSExample/js/lazymodule.js",
+		"/C/Users/WWD/git/ocLazyLoad/examples/requireJSExample/js/testmodule.js",
+		"/C/Users/WWD/git/ocLazyLoad/gulpfile.js",
+		"/C/Users/WWD/git/yeomanAngular/app/index.html",
+		"/C/Users/WWD/git/yeomanAngular/gulpfile.js",
+		"/C/Users/WWD/git/yeomanAngular/.jscsrc",
+		"/C/Users/WWD/git/javascriptStudy/object1.js",
+		"/C/Users/WWD/Desktop/javascript TEST.js",
+		"/C/Users/WWD/git/javascriptStudy/README.md",
+		"/C/Program Files (x86)/JetBrains/WebStorm 2016.1.1/bin/WebStorm.exe.vmoptions",
+		"/C/Program Files (x86)/JetBrains/WebStorm 2016.1.1/bin/WebStorm.exe",
+		"/C/Users/WWD/git/yeomanAngular/app/views/bookList.html",
+		"/C/Users/WWD/Desktop/未标a题-1.jps",
+		"/C/Users/WWD/Desktop/unity/UnityObject2.js",
+		"/C/Users/WWD/Desktop/unity/index.html",
+		"/C/Users/WWD/git/yeomanAngular/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/C/Users/WWD/git/yeomanAngular/app/styles/main.css",
+		"/C/Users/WWD/git/yeomanAngular/app/views/bookType.html",
+		"/C/Users/WWD/git/yeomanAngular/app/scripts/app.js",
+		"/C/Users/WWD/git/imoocAngularInAction/1-MVC/HelloAngular_Directive.js",
+		"/C/Users/WWD/git/imoocAngularInAction/1-MVC/HelloAngular_Directive.html",
+		"/C/Users/WWD/git/yeomanAngular/app/views/login.html",
+		"/C/Users/WWD/git/yeomanAngular/app/views/home.html",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/WWD/git/yeomanAngular/app/views/main.html",
+		"/C/Users/WWD/git/yeomanAngular/bower_components/bootstrap/Gruntfile.js",
+		"/C/Users/WWD/git/yeomanAngular/bower_components/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/Users/WWD/git/imoocAngularInAction/README.md",
+		"/C/Users/WWD/git/yeomanAngular/app/scripts/controllers/about.js",
+		"/C/Users/WWD/git/yeomanAngular/app/views/bookgrid.html",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/README.md",
+		"/C/Users/WWD/Desktop/signin.css",
+		"/C/Users/WWD/git/yeomanAngular/README.md",
+		"/C/Users/WWD/git/yeomanAngular/app/views/state2.html",
+		"/C/Users/WWD/git/yeomanAngular/app/views/state1.html",
+		"/C/Users/WWD/Desktop/ddddd.js",
+		"/C/Users/WWD/git/yeomanAngular/bower_components/angular-ui-router/README.md",
+		"/C/Users/WWD/git/yeomanAngular/app/views/state2.list.html",
+		"/C/Users/WWD/git/yeomanAngular/app/views/state1.list.html",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Nodejs/Nodejs.sublime-build",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Nodejs/Readme.md",
+		"/C/Users/WWD/git/yeomanAngular/app/views/about.html",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/Scope1.js",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/Scope1.html",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/MVC4.html",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/MVC3.html",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/HelloAngular_MVC.html",
+		"/C/Users/WWD/Downloads/54361b910001fed400000000/app/HelloAngular_Directive.html",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/readme.md",
+		"/C/Users/WWD/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/test.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\WWD\\git\\sitNav\\client\\app\\admin",
+			"C:\\Users\\WWD\\git\\sitNav\\client\\components",
+			"C:\\Users\\WWD\\git\\sitNav\\client\\app",
+			"C:\\Users\\WWD\\git\\sitNav\\client"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"paths",
+			"\\",
+			"$onInit",
+			"awesomeThings",
+			"ProtocolError",
+			"ProtocolError ",
+			"websiteMsgController",
+			"$ctrl",
+			"spec",
+			"main",
+			"MainController",
+			"awesomeThings",
+			" ng-class=\"active\"",
+			"userMsg",
+			"server",
+			"admin",
+			"ui-view",
+			"websiteMsg",
+			"server",
+			"module",
+			"script",
+			"server",
+			"route",
+			"start",
+			"name",
+			"observeProgress",
+			"unityObjectUrl",
+			"observeProgress",
+			"progress",
+			"unityPlayer",
+			"weinan3d",
+			"$missingScreen",
+			"missing",
+			"jquery",
+			"haha",
+			"livereload",
+			"serve",
+			"initConfig",
+			"pkg",
+			"serve",
+			"<ul class=\"list-group\">\n        <li class=\"list-group-item\" ui-sref=\"state1\">Item 1</li>\n        <li class=\"list-group-item\" ui-sref=\"state2\">Item 2</li>\n      </ul>",
+			"font",
+			"styles",
+			"cb",
+			"watch",
+			"main",
+			"paths",
+			"watch",
+			"partials",
+			" <div class=\"header\">\n      <div class=\"navbar navbar-default\" role=\"navigation\">\n        <div class=\"container\">\n          <div class=\"navbar-header\">\n\n            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#js-navbar-collapse\">\n              <span class=\"sr-only\">Toggle navigation</span>\n              <span class=\"icon-bar\"></span>\n              <span class=\"icon-bar\"></span>\n              <span class=\"icon-bar\"></span>\n            </button>\n\n            <a class=\"navbar-brand\" href=\"#/\">yeomanAngular</a>\n          </div>\n\n          <div class=\"collapse navbar-collapse\" id=\"js-navbar-collapse\">\n\n            <ul class=\"nav navbar-nav\">\n              <li class=\"active\"><a href=\"#/\">Home</a></li>\n              <li><a ng-href=\"#/about\">About</a></li>\n              <li><a ng-href=\"#/\">Contact</a></li>\n            </ul>\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"container\">\n    <div ng-view=\"\"></div>\n    </div>\n\n    <div class=\"footer\">\n      <div class=\"container\">\n        <p><span class=\"glyphicon glyphicon-heart\"></span> from the Yeoman team</p>\n      </div>\n    </div>",
+			"middleware: function (connect) {\n       return [connect().use('/bower_components',connect.static('./bower_components'))];\n     }",
+			"middleware: function (connect) {\n     //   return [connect().use('/bower_components',connect.static('./bower_components'))];\n     // }",
+			"serve",
+			"route",
+			"nodejs",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "object1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7623
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "@CHARSET \"UTF-8\";",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 241.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.gulp_output":
+	{
+		"height": 324.0
+	},
+	"output.markdown":
+	{
+		"height": 130.0
+	},
+	"output.nodejs":
+	{
+		"height": 259.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "javascriptStudy.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\WWD\\Desktop\\d.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
