@@ -1,0 +1,24 @@
+{
+  "name": "jsstudy",
+  "version": "1.0.0",
+  "description": "js study ",
+  "main": "vscode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel es6/src -d es6/lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wushang1987/javascriptStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wushang1987/javascriptStudy/issues"
+  },
+  "homepage": "https://github.com/wushang1987/javascriptStudy#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-env": "^1.2.2"
+  }
+}

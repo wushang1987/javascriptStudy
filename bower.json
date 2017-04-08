@@ -1,0 +1,17 @@
+{
+  "name": "jsstudy",
+  "description": "js study",
+  "main": "vscode.js",
+  "authors": [
+    "wwd <wushang1987@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wushang1987/javascriptStudy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

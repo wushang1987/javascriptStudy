@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "tasks": [{
+            "taskName": "tsc",
+            "command": "tsc",
+            "args": ["-w"],
+            "isShellCommand": true,
+            "isBackground": true,
+            "problemMatcher": "$tsc-watch"
+        },
+        {
+            "taskName": "build",
+            "command": "node",
+            "args": ["${fileDirname}/${fileBasenameNoExtension}"],
+            "isShellCommand": true
+        }
+    ]
+}
